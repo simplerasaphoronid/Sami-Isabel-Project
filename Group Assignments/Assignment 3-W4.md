@@ -17,8 +17,9 @@
 **Concerns**
   
   *Major concerns*
-    1. We need to figure how to merge our tree data and with our bus stop data
-    2. We are not sure if we can have census data with income as separate layers and tree data as separate layers on the same map.
+   1. We need to figure how to merge our tree data and with our bus stop data
+   2. We are not sure if we can have census data with income as separate layers.
+   3. We are also not certain if we can then have tree data and income data as separate layers on the same map.
   
   *Minor concerns*
   1. We wonder if our scale of analysis is too small to have any meaningful findings.
